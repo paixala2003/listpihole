@@ -41,3 +41,8 @@ pull-flv-l16-va01.tiktokcdn-us.com
 www.google.com
 kfk78htcdbpe5gfpzbzcmnhzhe5vud.ext-twitch.tv
 qcxdzgqw0sd1u50wqtwodjfd5dmkxz.ext-twitch.tv
+gx-proxy.operacdn.com
+realtimesupport.clients6.google.com
+scone-pa.clients6.google.com
+aa.google.com
+autopatch.juno.ea.com
