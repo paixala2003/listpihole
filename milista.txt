@@ -31,3 +31,4 @@ github-cloud.s3.amazonaws.com
 sync.opera.com
 ssl.gstatic.com
 signaler-pa.clients6.google.com
+static.twitchcdn.net
