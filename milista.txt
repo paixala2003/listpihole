@@ -29,3 +29,4 @@ static-cdn.jtvnw.net
 alive.github.com
 github-cloud.s3.amazonaws.com
 sync.opera.com
+ssl.gstatic.com
