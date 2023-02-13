@@ -67,3 +67,4 @@ sitecheck.opera.com
 pubsub-edge.twitch.tv
 cvp.twitch.tv
 gecko16-normal-useast1a.tiktokv.com
+kws2-1.web.telegram.org
