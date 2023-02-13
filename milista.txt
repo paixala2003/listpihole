@@ -68,3 +68,5 @@ pubsub-edge.twitch.tv
 cvp.twitch.tv
 gecko16-normal-useast1a.tiktokv.com
 kws2-1.web.telegram.org
+features.opera-api.com
+video-weaver.mad01.hls.ttvnw.net
