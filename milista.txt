@@ -51,3 +51,4 @@ sitecheck.opera.com
 alive.github.com
 clips-media-assets2.twitch.tv
 googlevideo.com
+video-edge-51a785.pdx01.abs.hls.ttvnw.net
