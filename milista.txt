@@ -59,3 +59,5 @@ lh1.googleusercontent.com
 lh3.googleusercontent.com
 lh7.googleusercontent.com
 lh8.googleusercontent.com
+ocular.chollometro.com
+storage.googleapis.com
