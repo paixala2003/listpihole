@@ -24,3 +24,5 @@ play.googleapis.com
 google.com
 www.samsung.com
 www.samsungknox.com
+inbox.google.com
+static-cdn.jtvnw.net
