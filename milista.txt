@@ -35,3 +35,6 @@ static.twitchcdn.net
 web.telegram.org
 pull-flv-f77-va01.tiktokcdn.com
 pull-w5-va01.tiktokcdn.com
+pull-a5-va01.tiktokcdn.com
+pull-flv-l16-va01.tiktokcdn.com
+pull-flv-l16-va01.tiktokcdn-us.com
