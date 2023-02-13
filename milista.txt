@@ -64,3 +64,5 @@ storage.googleapis.com
 irc-ws.chat.twitch.tv
 passport.twitch.tv
 sitecheck.opera.com
+pubsub-edge.twitch.tv
+cvp.twitch.tv
