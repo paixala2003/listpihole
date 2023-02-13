@@ -1,0 +1,20 @@
+# Syntax: Domains                                                           
+
+s3.amazonaws.com
+www.youtube.com
+web.whatsapp.com
+ctldl.windowsupdate.com
+autopatch.juno.ea.com
+catalog.gamepass.com
+rr2---sn-8vq54voxn25po-cjo6.googlevideo.com
+i.ytimg.com
+suggestqueries-clients6.youtube.com
+assets.nflxext.com
+www.netflix.com
+safebrowsing.googleapis.com
+www.terabox.com
+yt3.ggpht.com
+lh4.googleusercontent.com
+x1.c.lencr.org
+wpad.technicolor.net
+alive.github.com
