@@ -49,3 +49,4 @@ autopatch.juno.ea.com
 github.com
 sitecheck.opera.com
 alive.github.com
+clips-media-assets2.twitch.tv
