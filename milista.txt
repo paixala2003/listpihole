@@ -22,3 +22,5 @@ www.gstatic.com
 lightstep.kaizen.nvidia.com
 play.googleapis.com
 google.com
+www.samsung.com
+www.samsungknox.com
