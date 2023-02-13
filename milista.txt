@@ -61,3 +61,6 @@ lh7.googleusercontent.com
 lh8.googleusercontent.com
 ocular.chollometro.com
 storage.googleapis.com
+irc-ws.chat.twitch.tv
+passport.twitch.tv
+sitecheck.opera.com
