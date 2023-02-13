@@ -32,3 +32,4 @@ sync.opera.com
 ssl.gstatic.com
 signaler-pa.clients6.google.com
 static.twitchcdn.net
+web.telegram.org
