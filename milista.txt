@@ -21,3 +21,4 @@ alive.github.com
 www.gstatic.com
 lightstep.kaizen.nvidia.com
 play.googleapis.com
+google.com
