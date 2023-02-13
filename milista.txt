@@ -33,3 +33,5 @@ ssl.gstatic.com
 signaler-pa.clients6.google.com
 static.twitchcdn.net
 web.telegram.org
+pull-flv-f77-va01.tiktokcdn.com
+pull-w5-va01.tiktokcdn.com
