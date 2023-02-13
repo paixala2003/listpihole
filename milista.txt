@@ -28,3 +28,4 @@ inbox.google.com
 static-cdn.jtvnw.net
 alive.github.com
 github-cloud.s3.amazonaws.com
+sync.opera.com
