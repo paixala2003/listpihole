@@ -54,3 +54,8 @@ googlevideo.com
 video-edge-51a785.pdx01.abs.hls.ttvnw.net
 lh3.googleusercontent.com
 service-aggregation-layer.juno.ea.com
+lh6.googleusercontent.com
+lh1.googleusercontent.com
+lh3.googleusercontent.com
+lh7.googleusercontent.com
+lh8.googleusercontent.com
