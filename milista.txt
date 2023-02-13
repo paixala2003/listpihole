@@ -53,3 +53,4 @@ clips-media-assets2.twitch.tv
 googlevideo.com
 video-edge-51a785.pdx01.abs.hls.ttvnw.net
 lh3.googleusercontent.com
+service-aggregation-layer.juno.ea.com
