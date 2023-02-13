@@ -66,3 +66,4 @@ passport.twitch.tv
 sitecheck.opera.com
 pubsub-edge.twitch.tv
 cvp.twitch.tv
+gecko16-normal-useast1a.tiktokv.com
