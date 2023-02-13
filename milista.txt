@@ -46,3 +46,4 @@ realtimesupport.clients6.google.com
 scone-pa.clients6.google.com
 aa.google.com
 autopatch.juno.ea.com
+github.com
