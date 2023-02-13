@@ -26,3 +26,5 @@ www.samsung.com
 www.samsungknox.com
 inbox.google.com
 static-cdn.jtvnw.net
+alive.github.com
+github-cloud.s3.amazonaws.com
